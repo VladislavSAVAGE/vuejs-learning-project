@@ -12,7 +12,7 @@ methods: {
 });
 
 
-let help = new Vue({
+let app = new Vue({
   el: '#root',
 data: {
   couponApplied : false
